@@ -1,0 +1,7 @@
+# Build artifacts
+*.png
+!backgrounds/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

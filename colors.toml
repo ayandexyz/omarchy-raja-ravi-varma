@@ -1,0 +1,36 @@
+mode = "dark"
+
+# Ancient Indian — inspired by temple sandstone, sindoor, turmeric, peacock, and old manuscript gold on dark canvas
+accent = "#e6a23c"          # Turmeric gold — primary accent
+selection = "#3a2a1a"       # Aged wood / dark sandstone
+muted = "#7a6450"           # Faded ochre
+
+# Backgrounds — layered from deep cave to sandstone surface
+background = "#1c1812"      # Charred temple interior
+dark_background = "#15110c" # Cave shadow
+darker_background = "#0e0b08" # Abyss
+lighter_background = "#2a2218" # Lit sandstone
+
+# Foregrounds — manuscript ink, fresco, gold leaf
+foreground = "#e8d9b8"      # Aged parchment
+dark_foreground = "#8a7560" # Faded ink
+light_foreground = "#f3e6c8" # Fresh parchment
+bright_foreground = "#fff3d6" # Gold leaf highlight
+
+# Saturated colors — pigments and dyes
+red = "#c0392b"             # Sindoor (vermillion)
+yellow = "#e6a23c"          # Turmeric / haldi
+orange = "#d97834"          # Henna / copper
+green = "#3f8a4f"           # Peepal leaf / forest
+cyan = "#2a8a8a"            # Aged turquoise / patina
+blue = "#2c5f8d"            # Indigo (neel)
+magenta = "#a64a76"         # Lotus pink / gulal
+brown = "#6b4a2b"           # Teak / aged leather
+
+# Bright variants — festival and celebration
+bright_red = "#e74c3c"      # Bright sindoor
+bright_yellow = "#f0b94d"   # Marigold
+bright_green = "#5aa86a"    # Fresh peepal
+bright_cyan = "#3aa8a8"     # Polished turquoise
+bright_blue = "#4a7fb5"     # Bright indigo
+bright_magenta = "#c75a8e"  # Bright gulal
